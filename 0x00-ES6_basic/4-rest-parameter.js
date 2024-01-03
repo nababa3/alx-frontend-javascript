@@ -1,5 +1,5 @@
 export default function returnHowManyArguments(...theArgs) {
-    return theArgs.length;
+  return theArgs.length;
 }
 
-returnHowManyArguments("Hello", "Holberton", 2020);
+returnHowManyArguments('Hello', 'Holberton', 2020);
